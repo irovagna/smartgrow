@@ -3,6 +3,7 @@
 // SmartGrow Controller - Firmware version 1.3 
 // Designed by irovagna
 // 1 relay / oled screen / moisture sensor / arduino pump 5v / Telegram bot comunication
+// Chat id
 
 #ifdef ESP32
 #include <WiFi.h>
